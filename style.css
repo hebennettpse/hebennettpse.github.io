@@ -34,7 +34,7 @@ a{color:inherit}
 
 /* PAGE HERO */
 .hero{position:relative;height:292px;color:#fff;overflow:hidden;background:var(--green)}
-.hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(2,50,35,.98) 0%,rgba(2,54,38,.93) 37%,rgba(2,54,38,.38) 63%,rgba(2,54,38,.05) 100%),url("images/hero-building.svg") center/cover no-repeat}
+.hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(2,50,35,.98) 0%,rgba(2,54,38,.93) 37%,rgba(2,54,38,.38) 63%,rgba(2,54,38,.05) 100%),url("images/banner_image.png") center/cover no-repeat}
 .hero-content{position:relative;padding-top:37px}
 .hero h1{font-family:var(--serif);font-size:51px;line-height:1.08;font-weight:normal;margin:0 0 17px}
 .breadcrumb{font-size:14px}
